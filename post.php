@@ -15,7 +15,6 @@
 		}
 	?>
 <style>
-body {font-family: "Raleway", sans-serif}
 
 .container{
 	margin-top: 60px;
@@ -23,8 +22,6 @@ body {font-family: "Raleway", sans-serif}
 h2 {
     text-align: center;
 }
-
-html,body,h1,h2,h3,h4,h5,h6 {font-family: "Roboto", sans-serif;}
 .w3-sidebar {
   z-index: 3;
   width: 250px;
