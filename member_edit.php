@@ -11,7 +11,7 @@
 	
 	<div id="content" style="padding-top: 100px">	
 				<div class="panel panel-default">
-				  <div class="panel-heading"><strong>แก้ไขข้อมูลผู้ใช้</strong></div>
+				  <div class="panel-heading"><strong>แก้ไขข้อมูลสมาชิก</strong></div>
 				  <div class="panel-body">
 				    <form method="post" action="mem_send_update.php">
 						<div class="row">
